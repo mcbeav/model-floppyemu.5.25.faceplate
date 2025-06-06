@@ -6,7 +6,7 @@ The idea came from polymatt's Custom Apple II FloppyEMU disk drive. I wanted the
 
 *The original faceplate can be found at [https://www.printables.com/model/432463-custom-faceplate-for-floppy-emu-apple-disk-2-build](https://www.printables.com/model/432463-custom-faceplate-for-floppy-emu-apple-disk-2-build)*
 
-This required some serious modification of the plastic of the drive. I do not expect anyone else to replicate this project, but I am sharing the model for anyone to use.
+*This project required some modification of the FloppyEMU board, some extreme modifcation of the Apple 5.25" Floopy Disk Drive, and a microSD card extension (found mine on Amazon). I don't anticipate anyone replicating this, but maybe the model will be useful for someone else's project.*
 
 ![Model](https://raw.githubusercontent.com/mcbeav/model-floppyemu.5.25.faceplate/refs/heads/main/photos/model.PNG)
 
