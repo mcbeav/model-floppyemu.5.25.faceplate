@@ -8,6 +8,6 @@ The idea came from polymatt's Custom Apple II FloppyEMU disk drive. I wanted the
 
 This required some serious modification of the plastic of the drive. I do not expect anyone else to replicate this project, but I am sharing the model for anyone to use.
 
-![Model](https://raw.githubusercontent.com/mcbeav/model-floppyemu.5.25.faceplate/refs/heads/main/Faceplate.PNG)
+![Model](https://raw.githubusercontent.com/mcbeav/model-floppyemu.5.25.faceplate/refs/heads/main/photos/model.PNG)
 
-![Drive With Custom Faceplate](https://raw.githubusercontent.com/mcbeav/model-floppyemu.5.25.faceplate/refs/heads/main/Drive.JPEG)
+![Drive With Custom Faceplate](https://raw.githubusercontent.com/mcbeav/model-floppyemu.5.25.faceplate/refs/heads/main/photos/drive.JPEG)
